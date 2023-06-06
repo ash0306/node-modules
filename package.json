@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon FileSync.js"
+    "start": "nodemon FileAsync.js"
   },
   "keywords": [],
   "author": "",
